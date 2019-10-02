@@ -26,11 +26,13 @@ Gplrfdoâ€™y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz.
 ## Open Source Data
 
 [La Cifra De](https://en.wikipedia.org/wiki/La_cifra)
+
 [La cifra del Sig / Vigenere Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 
 I wanna point out I tried around 4 scripts on github and 5 or so online cracking tools and they all failed to crack or find the key
 Finally I found this tool which did it perfectly, I plan to email or find out how it works so I can throw it up on github for later
 use.
+
 [Working Tool](https://www.guballa.de/vigenere-solver)
 
 ## Solve
