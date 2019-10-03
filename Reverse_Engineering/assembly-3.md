@@ -36,7 +36,7 @@ What does asm3(0xdff83990,0xeeff29ae,0xfa706498) return? Submit the flag as a he
     | 0xeeff29ae    | <-- ebp + 0xc (arg2)
     +---------------+
     | 0xfa706498    | <-- ebp + 0x10 (arg3)
-+---------------+
+    +---------------+
 ```
 
 ### Actual Stack Layout (in groupings, due to endian-ness)
