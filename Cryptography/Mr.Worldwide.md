@@ -8,25 +8,25 @@ picoCTF{(35.028309, 135.753082)(46.469391, 30.740883)(39.758949, -84.191605)(41.
 
 ## Open Soruce Data
 
-Data looks like Lat Long data puntch into google maps and get.  
+Data looks like Lat Long data punch into google maps and get.  (Use the first letter of each city name)
 
 ```
- 1 Nakanocho, Kamigyo Ward, Kyoto, Japan
- 2 Odesa, Odessa Oblast, Ukraine, 65000
- 3 Dayton, OH 45402, United States
- 4 İstanbul, Hoca Paşa, 34110 Fatih/İstanbul, Turkey
- 5 Hazza Bin Zayed the First St - Abu Dhabi - United Arab Emirates
- 6 Unnamed Road, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia _ after this one
- 7 Unnamed Road, Addis Ababa, Ethiopia
- 8 Av Nueva Loja, Loja, Ecuador
- 9 Martelaarsgracht 5, 1012 TN Amsterdam, Netherlands
-10 Sleepy Hollow, NY 10591, United States
-11 Kodiak, AK 99615, United States
-12 Faculty Of Engineering, Al Azaritah WA Ash Shatebi, Qism Bab Sharqi, Alexandria Governorate, Egypt
+ 1  k - Nakanocho, Kamigyo Ward, (K)yoto, Japan
+ 2  o - (O)desa, Odessa Oblast, Ukraine, 65000
+ 3  d - (D)ayton, OH 45402, United States
+ 4  i - (İ)stanbul, Hoca Paşa, 34110 Fatih/İstanbul, Turkey
+ 5  a - Hazza Bin Zayed the First St - (A)bu Dhabi - United Arab Emirates
+ 6  k - Unnamed Road, 50480 (K)uala Lumpur, Federal Territory of Kuala Lumpur, Malaysia _ after this one
+ 7  a - Unnamed Road, (A)ddis Ababa, Ethiopia
+ 8  l - Av Nueva Loja, (L)oja, Ecuador
+ 9  a - Martelaarsgracht 5, 1012 TN (A)msterdam, Netherlands
+10  s - (S)leepy Hollow, NY 10591, United States
+11  k - (K)odiak, AK 99615, United States
+12  a - Faculty Of Engineering, Al Azaritah WA Ash Shatebi, Qism Bab Sharqi, (A)lexandria Governorate, Egypt
 ```
 
 ## Solve
 
-Flag is all the city names or most local to area name?
+Flag is first letter of all the city names:
 
 picoCTF{kodiak_alaska}
