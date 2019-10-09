@@ -1,7 +1,17 @@
 import os
 
-
-
+def convert_to_binary(toConvertList):
+    list_to_return = [];
+    for  index in toConvertList:
+        print(index)
+        for item in index:
+            print(item)
+            list2 = item.split(' ')
+            print(list2)
+            if(cell == 'E2'):
+                list_to_return.append(1)
+            else:
+                list_to_return.append(0)
 
 # This program is a little misnamed it does not convert from hex to binary
 # it takes a space value of 1 and converts that to 1 and everything eles is 0
@@ -25,4 +35,6 @@ def convert_to_binary(toConvertList):
 
 lineList = [open("whitePagesHexOnly.txt")]
 
+
 print(convert_to_binary(lineList))
+
